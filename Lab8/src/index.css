@@ -28,3 +28,7 @@ li{
   color: gray;
 
 }
+#filter{
+  display: flex;
+  gap: 8px;
+}
